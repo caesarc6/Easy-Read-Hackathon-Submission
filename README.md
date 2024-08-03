@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+![image_Read_easy](https://github.com/user-attachments/assets/f8abce26-6ef2-4ce0-ba9d-beee3f1fc830)
+
+>>>>>>> d1b84799eccc3a4fffecf396868ce60024f29418
 =======
 ![image_Read_easy](https://github.com/user-attachments/assets/f8abce26-6ef2-4ce0-ba9d-beee3f1fc830)
 
